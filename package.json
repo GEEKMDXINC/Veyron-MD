@@ -1,15 +1,15 @@
 {
-               "name": "oreo-Md",
+               "name": "veyron-Md",
                "version": "4.0",
                "description": "Multi device whatsapp bot by Thushan.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name oreo-md",
-                "stop": "pm2 stop oreo-md"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name veyron-md",
+                "stop": "pm2 stop veyron-md"
                 },
-               "author": "Oreo md",
+               "author": "Veyron md",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -88,10 +88,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/vajirabot1/KING-VAJIRA-MD.git"
+                 "url": "git+https://github.com/GEEKMDXINC/Veyron-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/vajirabot1/KING-VAJIRA-MD/issues"
+                 "url": "https://github.com/vajirabot1/Veyron-MD/issues"
                   },
-                 "homepage": "https://github.com/vajirabot1/KING-VAJIRA-MD#readme"
+                 "homepage": "https://github.com/GEEKMDXINC/Veyron-MD#readme"
               }
