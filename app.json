@@ -1,14 +1,14 @@
 {
-  "name": "OREO-MD",
+  "name": "BIGATTI VEYRON-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/ee46da705fa65f9f4ccd4.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "oreobot", "dark","OREOMD","theme bot","multi device","baileys","joker"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "GARENA", "veyronbot", "dark","VEYRONMD","theme bot","multi device","baileys","GEEKMDXINC"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "ASIF-OFC💚"
+      "value": "BUGATTI"
   },
     "AUTO_STATUS_SAVER": {
       "description": "Automatically saves status of every person and sends in log number.",
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923474187615"
+       "value": "237620857930"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@Excelottah/BLACK-Md"
@@ -80,7 +80,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use.Available theme is oreo, do not change it will come errors",
-     "value": "OREO"
+     "value": "VEYRON"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "OREO;MD",
+     "value": "VEYRON;MD",
      "required": false 
   },
   "heroku": {
