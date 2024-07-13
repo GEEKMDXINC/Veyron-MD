@@ -28,7 +28,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/ee46da705fa65f9f4ccd4.jpg"
+     "value": "https://telegra.ph/file/f14d3374de5c008acfec3.png"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
