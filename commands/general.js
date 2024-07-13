@@ -104,14 +104,14 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/Joker-Ofc/OREO-MD')
+        let { data } = await axios.get('https://api.github.com/repos/GEEKMDXINC/Veyron-MD')
         let cap = `Hey ${citel.pushName}\n
 ╭┈────────────    .· * • ˚
 │*⭐ Total Stars:* ${data.stargazers_count} stars
 │*🍴 Forks:* ${data.forks_count} forks
-│*📡 Repo:* https://github.com/Joker-Ofc/OREO-MD
-│*🏘Group:* https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk
-│*🧑‍💻Deploy VAJIRA MD*:https://github.com/Joker-Ofc/OREO-MD
+│*📡 Repo:* https://github.com/GEEKMDXINC/Veyron-MD
+│*🏘Group:* https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a
+│*🧑‍💻Deploy Bugatti MD*:https://github.com/GEEKMDXINC/Veyron-MD
 ╰──────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
