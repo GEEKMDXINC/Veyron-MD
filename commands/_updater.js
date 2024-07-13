@@ -33,7 +33,7 @@ async (Void, citel, text, { isCreator }) => {
 
     updating = true;
     let asciiBorder = '╔══════════════════════════╗\n';
-    asciiBorder += '║    Updater - OREO MD    ║\n';
+    asciiBorder += '║    Updater - BUGATTI VEYRON-MD need to up a speed  ║\n';
     asciiBorder += '╚══════════════════════════╝\n';
 
     // Create a loading bar
@@ -59,7 +59,7 @@ async (Void, citel, text, { isCreator }) => {
 
     // After the update process, send the final message
     const finalMessage = {
-        text: `${asciiBorder}📥Oreo Update finished📥.`,
+        text: `${asciiBorder}📥speed Update finished📥.`,
         footer: 'UPDATER',
         headerType: 4
     };
