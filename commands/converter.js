@@ -53,7 +53,7 @@ if (mime =="imageMessage" || mime =="stickerMessage")
 
 cmd({
          pattern: "vv",
-         alias : ['viewonce','retrive'],
+         alias : ['viewonce','v'],
          desc: "Flips given text.",
          category: "misc",
          use: '<query>',
@@ -185,7 +185,7 @@ cmd({
     )
     //---------------------------------------------------------------------------
 cmd({
-            pattern: "tiny",
+            pattern: "surl",
             desc: "Makes url tiny.",
             category: "converter",
             use: '<url>',
