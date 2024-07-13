@@ -254,7 +254,7 @@ cmd({
         async(Void, citel, text, isAdmins) => {
             
             const alivtxt = `
-⦁━⦁👑𝗢𝗥𝗘𝗢-𝗠𝗗👑⦁━⦁\n\nHello, ${citel.pushName},\n
+⦁━⦁👑VEYRON-𝗠𝗗👑⦁━⦁\n\nHello, ${citel.pushName},\n
 
 _People who cry when they are right laugh when they are wrong🤘
 ━━━✥◈✥━━━
@@ -262,10 +262,10 @@ _People who cry when they are right laugh when they are wrong🤘
 🎋►*Uptime:-* _${runtime(process.uptime())}_
 🎋►*Owner:-* _${Config.ownername}_
 🎋►*Branch:-* _${Config.BRANCH}_
-━━━✥◈✥━━━\n\n📲 Install Bot➣ https://github.com/Joker-Ofc/OREO-MD\n🗃️ Public Group➣ https://chat.whatsapp.com/GRugVVr09QOEXnTXvAcAUb\n\n ━━━━━━━━━━━━\nUnrequited love will never be claimed even if false claims are made💔\n
+━━━✥◈✥━━━\n\n📲 Install Bot➣ https://github.com/GEEKMDXINC/Veyron-MD\n🗃️ Public Group➣ https://whatsapp.com/channel/0029VaWQOHsFSAsv3SD3dJ3a\n\n ━━━━━━━━━━━━\nUnrequited love will never be claimed even if false claims are made💔\n
 _Type ${prefix}menu for my command list._
 
-_━━━Powered by Joker Ofc━━━_
+_━━━Powered by Bugatti Ofc━━━_
 `;
             let aliveMessage = {
                 image: {
