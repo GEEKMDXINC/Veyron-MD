@@ -63,9 +63,9 @@ cmd({
   try {
     // Generate a temporary email address
     const email = await generateTempEmail(userId);
-    await citel.reply(`Your temporary email address is: ${email}`);
+    await citel.reply(`Your temporary email address of driver card is: ${email}`);
   } catch (error) {
-    console.error('Error generating temporary email:', error);
+    console.error('Error generating temporary driver card email:', error);
     await citel.reply('An error occurred while generating the temporary email address.');
   }
 });
@@ -100,6 +100,6 @@ cmd({
       await citel.reply('An error occurred while checking the temporary email inbox.');
     }
   } else {
-    await citel.reply("You don't have a temporary email address. Generate one with '.tempmail' first.");
+    await citel.reply("You don't have a temporary driver card  email address. Generate one with '.tempmail' first.");
   }
 });
