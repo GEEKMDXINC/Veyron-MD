@@ -56,18 +56,20 @@ Secktor.cmd({
                 let total = await sck1.countDocuments()
                 let str = `┏┘ ⊆ ` + fancytext(Config.ownername.split(' ')[0], 38) + ` ⊇ └┓\n`
                 str +=
-                    '```' + `\n💌ᚔᚔᚔᚍᴊᴏᴋᴇʀ ᴏꜰᴄ ᴛᴇᴀᴍᚍᚔᚔᚔ💌\n
-👤 *User:-* ${citel.pushName}»
-🖼️ *Theme:-* ${tlang().title}»
-📌 *Prefix:-* [ ${prefix} ]»
-👤 *Owner:-* ${Config.ownername}»
-📍 *Plugins:-* ${commands.length}
-🕐 *Uptime:-* ${runtime(process.uptime())}»
-📃 *Mem:-* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}»
-🕐 *Time:-* ${time}»
-🗓️ *Date:-* ${date}»
-\n💛⳹𝗢𝗥𝗘𝗢-𝗠𝗗⳼💛\n
-` + '```'
+                    '```' + `╭─────────────────✇
+│❒⁠⁠⁠⁠╭─────────────✇
+│❒⁠⁠⁠⁠│▸ *Theme:-* ${tlang().title}» 
+│❒⁠⁠⁠⁠│▸  *User:-* ${citel.pushName}»
+│❒⁠⁠⁠⁠│▸  *Prefix:-* [ ${prefix} ]»
+│❒⁠⁠⁠⁠╰──────────────✇
+│❒⁠⁠⁠⁠│▸  *Owner:-* ${Config.ownername}»
+│❒⁠⁠⁠⁠│▸  *Plugins:-* ${commands.length}
+│❒⁠⁠⁠⁠│▸  *Uptime:-* ${runtime(process.uptime())}»
+│❒⁠⁠⁠⁠│▸ *Mem:-* ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}»
+│❒⁠⁠⁠⁠╰──────────────✇ 
+╰───────────────────⏣
+> BUGATTI MD LASTEST VERSION
+> TYPING ALLMENU FOR LY COMMANDS\n${readmore}\n`;` + '```'
                 for (const category in cmds) 
                 {
                    str += `╭═════⋰❐ *${tiny(category)}* ⋱❏═════╮\n` ;
