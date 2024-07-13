@@ -4,7 +4,7 @@ cmd({
 
             pattern: "logo",
 
-            alias: ["ලෝගෝ","ලොගො","ලොගෝ","ලෝගො"],
+            alias: ["l","log"],
 
             desc: "some settings change.",
 
@@ -324,7 +324,7 @@ description: ' '
 
 *Hello .*
 
-*I Am 𝗣𝗥𝗔𝗕𝗔𝗧𝗛-𝗠𝗗*
+*I Am BUGATTI-𝗠𝗗*
 
 ⦁ *CREATED DATE :* 2023/01/2.
 
