@@ -2,7 +2,7 @@ const { tlang, botpic, cmd, prefix, runtime, Config, formatp, fetchJson } = requ
 const { download} = require('aptoide-scraper')
 cmd({
     pattern: "apk",
-    alias: ["ps","downapk","playstore"],
+    alias: ["app","downapk","playstore"],
     desc: "download playstore app",
     react: "📥",
     category: "downloader",
@@ -23,7 +23,7 @@ let result = await download(text)
             url: icon,
         },
         caption: `
-        \n ✧ *OREO MD APP DOWNLOADER*
+        \n ✧ *BUGATTI MD KEYBOARD APP DOWNLOADER*
         \n━━━━━━━━━━━━━━━━━━
         
         \n │📚 *ᴀᴘᴘ ɴᴀᴍᴇ:* ${getname}
@@ -34,7 +34,7 @@ let result = await download(text)
         
         \n │📊 *ꜰɪʟᴇ ꜱɪᴢᴇ:* ${size}
         
-        \n ❭ *ᴏʀᴇᴏ-ᴍᴅ  ° ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀꜱɪꜰ ᴋʜᴀɴ*`,
+        \n ❭ *veyron-ᴍᴅ  ° ᴄʀᴇᴀᴛᴇᴅ ʙʏ Bugatti*`,
     })
     return Void.sendMessage(citel.chat, {
         document: {
@@ -42,8 +42,8 @@ let result = await download(text)
         },
         mimetype: "application/vnd.android.package-archive",
         fileName: getname,
-        caption: `👑 *ᴏʀᴇᴏ ᴍᴅ ᴠ3̸*
-👨🏻‍💻 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴀꜱɪꜰ ᴋʜᴀɴ*`,
+        caption: `👑 *veyron ᴍᴅ ᴠ3̸*
+👨🏻‍💻 *ᴄʀᴇᴀᴛᴇᴅ ʙʏ Bugatti*`,
     }, {
         quoted: citel,
     });
