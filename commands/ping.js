@@ -40,5 +40,5 @@ async (Void, citel) => {
     await Secktor.sleep(1000);
 
     // Send the final ping message
-    return await Void.sendMessage(citel.chat, { text: `*📍Oreo is Ping: ${pingValue} ms*` });
+    return await Void.sendMessage(citel.chat, { text: `*📍veyron is Ping: ${pingValue} ms*` });
 });
