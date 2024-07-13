@@ -13,7 +13,7 @@
     <img src="https://telegra.ph/file/1b03e8389b45f3af9322a.png"  width="700px">
   </a>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+VEYRON╺+𝙈𝘿+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝙹𝙾𝙺𝙴𝚁+𝙾𝙵𝙲+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐀𝐒𝐈𝐅🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+VEYRON╺+𝙈𝘿+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+Bugatti+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+GEEK)](https://git.io/typing-svg)
 
 <div align="center">    
    
@@ -21,7 +21,7 @@
 
 </p>
 
-[![use paring code 1](https://i.imgur.com/ouR5zv8.jpg)](https://richy-sessions-pair-1.onrender.com) 2
+[![use paring code 1](https://i.imgur.com/ouR5zv8.jpg)](https://richy-sessions-pair-1.onrender.com) 
 
 
 ***Click [FORK](https://github.com/GEEKMDXINC/Veyron-MD-fork)***
@@ -32,7 +32,7 @@
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com)
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Joker-Ofc/OREO-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923474187615&env[MONGODB_URI]&&env[OWNER_NAME]=Vajira&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=94&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=OREO&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=prabath;madeby&name=nithya&env[KOYEB_NAME]=oreo&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/GEEKMDXINC/Veyron-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=237620857930&env[MONGODB_URI]&&env[OWNER_NAME]=geek&env[KOYEB_API]&env[PREFIX]=.&env[BOTCAHX_API]&env[ALIVE_IMG]=https://telegra.ph/file/1b03e8389b45f3af9322a.png&env[ALIVE_MSJ]=IAmOnline&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=94&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=VEYRON&env[AUTO_STICKER]=false&env[AUTO_VOICE]=false&env[PACK_INFO]=GEEK;madeby&name=nithya&env[KOYEB_NAME]=veyron&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
     
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/)
  
