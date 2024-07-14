@@ -22,7 +22,7 @@ const Secktor = require('../lib/commands')
 
     //---------------------------------------------------------------------------
 Secktor.cmd({
-            pattern: "menu",
+            pattern: "allmenu",
             desc: "Help list",
             category: "general",
             react: "🧑‍💻",
