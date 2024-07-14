@@ -4,7 +4,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER || '237620857930'  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://benzimen:ruben@cluster0.amciu0f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 global.port= process.env.PORT || 5000
 global.email = 'etoundiruben45@gmail.com'
 global.github = 'https://github.com/GEEKMDXINC/Veyron-MD'
