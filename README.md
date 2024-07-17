@@ -24,7 +24,7 @@
 [![use paring code 1](https://i.imgur.com/ouR5zv8.jpg)](https://richy-sessions-pair-1.onrender.com) 
 
 
-***Click [FORK](https://github.com/GEEKMDXINC/Veyron-MD-fork)***
+***Click [FORK](https://github.com/GEEKMDXINC/Veyron-MD/fork)***
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
  
